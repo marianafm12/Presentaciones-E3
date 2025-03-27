@@ -11,6 +11,9 @@ Presentaciones de avances de un sistema de servicios médicos
 
 
 
+- Eduardo: Este es mi segundo comentario
+
+
 - Arlette: 🚀 Codea ahora, depura después.
 
 
@@ -33,3 +36,4 @@ Presentaciones de avances de un sistema de servicios médicos
 -💻 Compilando… éxito no garantizado.
 
 -Sebastian: 👍quiero tacos 
+
