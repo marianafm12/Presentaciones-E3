@@ -9,8 +9,5 @@ Presentaciones de avances de un sistema de servicios médicos
 
 
 
-
-
-
-Sebastian: Quiero unos tostiesquites
+- Sebastian: Quiero unos tostiesquites
 - Arlette: 🚀 Codea ahora, depura después.
