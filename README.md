@@ -9,7 +9,8 @@ Presentaciones de avances de un sistema de servicios médicos
 
 
 
-- Sebastian: Quiero unos tostiesquites
+
+
 - Arlette: 🚀 Codea ahora, depura después.
 
 
@@ -19,4 +20,16 @@ Presentaciones de avances de un sistema de servicios médicos
 
 
 
-Sebastian: 👍quiero tacos 
+-Arlette: ⚡ Bug encontrado, café recargado.
+
+
+
+
+
+
+
+
+
+-💻 Compilando… éxito no garantizado.
+
+-Sebastian: 👍quiero tacos 
