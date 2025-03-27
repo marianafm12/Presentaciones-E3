@@ -1,2 +1,3 @@
 # Presentaciones-E3
 Presentaciones de avances de un sistema de servicios médicos
+-Eduardo: Hoy es un gran día para morir
