@@ -11,4 +11,4 @@ Presentaciones de avances de un sistema de servicios médicos
 
 
 
--Arlette: 🚀 Codea ahora, depura después.
+- Arlette: 🚀 Codea ahora, depura después.
